@@ -8,4 +8,5 @@ Os valores de input para os cálculos são definidos no início de cada código
 Divirta-se e use de forma responsável
 
 OBS: não é garantido o funcionamento perfeito do código para todos os casos e nem é garantida a exatidão ideal dos resultados
-OBS: Correções serão bem recebidas através de pull requests 
+
+OBS2: Correções serão bem recebidas através de pull requests 
