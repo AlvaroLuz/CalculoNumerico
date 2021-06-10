@@ -3,6 +3,8 @@ Código desenvolvido para executar métodos de aproximação vistos em Cálculo 
 
 Todos os algoritmos foram desenvolvidos para a linguagem Python versão 3.7
 
+Para a execução dos algoritmos da pasta P3, é necessária a instalação da biblioteca sympy, utilizada neste projeto para o cálculo de derivadas e integrais.
+
 Os valores de input para os cálculos são definidos no início de cada código
 
 Divirta-se e use de forma responsável
